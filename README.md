@@ -20,8 +20,10 @@ Chaque dossier comprend un fichier TODO.md qui détaille les taches et permet de
 ### Mode de contribution
 La contribution au yournal consiste en l'écriture de texte et l'ajout d'images et de documents en rapport avec les rubriques concernées dans le dossier de la rubrique concernée pour l'édition en cours (ex: Numero_7/BDE/ )
 
+
 ### Type de fichiers utilisés
 La mise en page étant réalisée de manière uniforme dans indesign pour tout les articles, l'utilisation de fichiers textes simples devrait suffire à la rédaction d'articles, néanmoins tout les documents seront acceptés pour que chacun puisse travailler avec l'outil qui lui convient le mieux.
+
 
 ### Pour participer à l'édition d'une rubrique ou d'un article depuis github
 1. Ajout d'un document
@@ -35,6 +37,7 @@ La mise en page étant réalisée de manière uniforme dans indesign pour tout l
 		2. Faire glisser  le fichier texte dans la zone d'envoi 
 		3. Valider en clickant sur commit changes
 	
+
 2. Modification d'un document 
 	- Texte simple ( .txt ) 
 		1. Ouvrir le fichier à modifier (clicker dessus)
@@ -49,12 +52,14 @@ La mise en page étant réalisée de manière uniforme dans indesign pour tout l
 		3. Entrer une description rapide des modifications dans la zone **Commit changes**
 		4. Valider en clickant sur commit changes
 	
+
 3. Mise à jour d'une liste de taches (fichier TODO.md )
 	1. Ouvrir le fichier TODO.md à modifier (clicker dessus)
 	2. Clicker sur le crayon à droite du bouton history
 	3. change les **[ ]** en **[X]** la ou les taches ont été réalisées
 	4. Entrer une description rapide des modifications dans la zone **Commit changes**
 	5. Valider en clickant sur commit changes
+
 
 ## Les éditions précédentes
 - Yournal 1 du XX/XX/2015
